@@ -1,0 +1,53 @@
+# Vivado generated files
+*.jou
+*.log
+*.str
+*.tmp
+*.backup.jou
+*.backup.log
+
+# Vivado project generated directories
+.Xil/
+*.cache/
+*.runs/
+*.sim/
+*.hw/
+*.ip_user_files/
+*.gen/
+*.srcs/sources_1/bd/
+
+# Bitstream and generated reports
+*.bit
+*.bin
+*.ltx
+*.dcp
+*.rpt
+*.pb
+*.wdb
+*.vcd
+*.saif
+
+# Xilinx simulation temporary files
+xsim.dir/
+xvlog.log
+xelab.log
+xsim.log
+webtalk*.log
+webtalk*.jou
+
+# OS generated files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.bak
+
+# Keep screenshots, rtl, sim, docs
+!screenshots/
+!rtl/
+!sim/
+!docs/
